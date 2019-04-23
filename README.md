@@ -39,8 +39,13 @@
 | 9 | **flutter_html** | html加载 | [Github地址](https://github.com/Sub6Resources/flutter_html) |
 | 10 | **shared_preferences** | 持久化存储 | [Github地址](https://github.com/flutter/plugins/tree/master/packages/shared_preferences) |
 
+## 知识点梳理图
+<p align="center">
+  <img src="http://m.qpic.cn/psb?/V112qmTd0F9ydX/zMXS0vZ.i*jAoWGd.BUzfSglt.Odb55Xac3n1YqseIA!/b/dDUBAAAAAAAA&bo=GAlABgUMQwgDWWk!&rf=viewer_4">
+</p>
+
 ## 应用截图
-| ![1](http://m.qpic.cn/psb?/V112qmTd0F9ydX/o*IN3xte3ER0luww435L3w2r3ezXuakKfKTMu7p1f.M!/b/dIsBAAAAAAAA&bo=7gI2Be4CNgUDSWw!&rf=viewer_4) | ![2](http://m.qpic.cn/psb?/V112qmTd0F9ydX/B2TwiOvESTwKp9KI6m*jRrGZ*N4ko6.9hpLg3StycgQ!/b/dIIBAAAAAAAA&bo=7gI2Be4CNgUDORw!&rf=viewer_4) | ![3](http://m.qpic.cn/psb?/V112qmTd0F9ydX/KX7i3f23t.zclj1rrb8OKULxVO.8k3bIozbaei3VBe0!/b/dIoBAAAAAAAA&bo=7gI2Be4CNgUDKQw!&rf=viewer_4) | ![4](http://m.qpic.cn/psb?/V112qmTd0F9ydX/02BwW0Rt59fRpE.jqqKM.DZvLv.7fR7lyWbDOUdEGuM!/b/dPQAAAAAAAAA&bo=7gI2Be4CNgUDGTw!&rf=viewer_4) |  
+| ![1](http://m.qpic.cn/psb?/V112qmTd0F9ydX/o*IN3xte3ER0luww435L3w2r3ezXuakKfKTMu7p1f.M!/b/dIsBAAAAAAAA&bo=7gI2Be4CNgUDSWw!&rf=viewer_4) | ![2](http://m.qpic.cn/psb?/V112qmTd0F9ydX/B2TwiOvESTwKp9KI6m*jRrGZ*N4ko6.9hpLg3StycgQ!/b/dIIBAAAAAAAA&bo=7gI2Be4CNgUDORw!&rf=viewer_4) | ![3](http://m.qpic.cn/psb?/V112qmTd0F9ydX/KX7i3f23t.zclj1rrb8OKULxVO.8k3bIozbaei3VBe0!/b/dIoBAAAAAAAA&bo=7gI2Be4CNgUDKQw!&rf=viewer_4) | ![4](http://a2.qpic.cn/psb?/V112qmTd0F9ydX/w2z7k5dG9.pnmu6sHCZ2BZQ9xAMAlgKp14iPUnAeVRg!/b/dLkAAAAAAAAA&ek=1&kp=1&pt=0&bo=7gI2Be4CNgUDGTw!&tl=1&vuin=676630964&tm=1556024400&sce=60-2-2&rf=viewer_4) |  
 | :--: | :--: | :--: | :--: |  
 | 首页 | 分类 | 购物车 | 会员中心 |  
 
